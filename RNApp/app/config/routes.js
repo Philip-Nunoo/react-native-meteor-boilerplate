@@ -17,12 +17,12 @@ export const AuthStack = createAppContainer(createStackNavigator({
   SignIn: {
     screen: SignIn,
   },
+}, {
+  headerMode: 'none',
 }));
 
 /**
- * , {
-  headerMode: 'none',
-}
+ * 
  */
 
 export const HomeStack = createStackNavigator({
