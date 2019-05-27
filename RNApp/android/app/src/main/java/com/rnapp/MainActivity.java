@@ -1,4 +1,4 @@
-package com.rnapp2;
+package com.rnapp;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "RNApp2";
+        return "RNApp";
     }
 }

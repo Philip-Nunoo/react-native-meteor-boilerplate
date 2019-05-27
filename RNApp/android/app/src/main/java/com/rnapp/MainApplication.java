@@ -1,4 +1,4 @@
-package com.rnapp2;
+package com.rnapp;
 
 import android.app.Application;
 
